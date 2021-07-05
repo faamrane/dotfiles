@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aamrane.fz@gmail.com
+	name = Fatima-zahra Aamrane
